@@ -1,0 +1,20 @@
+#contacts-footer, #clients-footer{
+    display: inline-block;
+    float: left;
+    padding-right: 100px;
+    text-align: left;
+}
+
+.container2{
+    background-color: lightcyan;
+    padding: 20px;
+}
+
+.container{
+    padding: 20px;
+    text-align: center;
+}
+
+.container-inner{
+    text-align: left;
+}
